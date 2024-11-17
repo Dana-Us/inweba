@@ -18,7 +18,6 @@ height: 699px;
 padding: 0px 0px 50px 0px;
 gap: 0px;
 opacity: 0px;
-/* background-color: #E0E7EF; */
 padding-left: 290px;
 padding-right: 290px;
 
@@ -78,11 +77,7 @@ height: 20px;
 top: 12.5px;
 left: 5px;
 gap: 0px;
-/* border: 1px 0px 0px 0px; */
 opacity: 0px;
-/* border: 1px solid #003366; */
-/* angle: 90 deg; */
-
 }
 
 .main-menu #menu3 {
@@ -102,16 +97,14 @@ opacity: 0px;
 }
 
 .main-menu > li > a {
-    /* padding: 0 0 15px 0; */
     position: relative;
     color: #343434;
     font-weight:500;
-    /* letter-spacing: 0.2px; */
     font-size: 16px;
     text-decoration: none;
     line-height: 16px;   
 text-align: center;
-/* text-underline-position: from-font; */
+
 text-decoration-skip-ink: none;
 
 }
@@ -147,12 +140,11 @@ text-decoration-skip-ink: none;
     background-color:#003366;       
     border: none;
     font-size: 20px;
-    /* padding: 0px 30px 14px 30px; */
     gap: 10px;
     opacity: 0px;
     position: relative;
     top:10px;
-    /* padding-top: 5px; */
+
 }
 
 header p{
@@ -160,20 +152,16 @@ header p{
 height: 30px;
 gap: 0px;
 opacity: 0px;
-/* font-family: 'Roboto', sans-serif; */
 font-size: 20px;
 font-weight: 400;
 line-height: 30px;
 text-align: left;
-/* text-underline-position: from-font; */
 text-decoration-skip-ink: none;
 color: #FFFFFF;
 margin: 0 auto;
 }
 
 .heroContainer{
-
-
 position: relative;
     display: flex;
     width: 1346px;
@@ -182,11 +170,9 @@ position: relative;
     left: 287px;
     gap: 24px;
     opacity: 0px;
-    /* padding-left: 287px; */
 }
 .heroContainer .subHeroContainer{
     width: 899px;
-    /* height: 519px; */
     padding-top: 100px;
     padding-right: 80px;
     padding-bottom: 100px;
@@ -195,7 +181,6 @@ position: relative;
     border-radius:20px;
     background-color:#003366;
     font-weight: 600;
-
     color:#FBFBFB;
 }
 
@@ -211,7 +196,6 @@ position: relative;
     width: 729px;
     height: 178px;
     gap: 4px;
-    /* padding-right: 120px; */
 }
 
  #l1{
@@ -229,7 +213,6 @@ position: relative;
     font-size: 48px;
     line-height: 57.6px;
     text-transform: uppercase;
-
 }
 
 .subHeroContainer .containerSmall #l3{
@@ -238,7 +221,6 @@ position: relative;
     font-weight: 400;
     font-size: 18px;
     line-height: 27px;
-
 }
 
 .subHeroContainer.containerSmall{
@@ -246,8 +228,6 @@ position: relative;
     height: 125px;
     gap: 40px;
     padding-right: 120px;
-    /* padding-bottom: 108px; */
-    /* display: block; */
 }
 
 
@@ -262,7 +242,6 @@ position: relative;
     gap: 10px;
     margin-top: 35px;
     border:none;
-
 }
 
 .subHeroContainer .containerSmall #l4{
@@ -275,7 +254,6 @@ position: relative;
 }
 
 .preAdvantages{
-    /* display: flex; */
     width: 1920px;
     height: 560px;
     background-color:#E0E7EF;
@@ -288,8 +266,6 @@ position: relative;
     width: 1340px;
     height: 457px;
     padding-top: 60px;
-    /* padding-bottom: 20px; */
-    /* position: absolute; */
     margin-top: 50px;
     margin-left: 290px;
     border-radius: 24px;
@@ -301,13 +277,11 @@ position: relative;
     width: 1340px;
     height: 123px;
     border-radius:16px;
-    /* padding-left: 50px; */
     gap: 16px;
     background-color:#FBFBFB;
 }
 
 .preAdvantages .advantages .containerAdvant label{
-    /* display:block; */
     width: 990px;
     height: 63px;
     font-weight: 500;
@@ -319,13 +293,10 @@ position: relative;
     position: relative;
     bottom: -35px;
     padding-left: 50px;
-    /* position:center; */
 }
 
 .preAdvantages .containerCards{
-    /* display: block; */
     display:flex;
-    /* justify-content: right; */
     width: 1340px;
     height: 274px;
     justify-content: space-between;
@@ -338,7 +309,6 @@ position: relative;
     width: 431px;
     height: 274px;
     border-radius:14px;
-    /* margin: 30px; */
     gap: 40px;
     background-color:#FBFBFB;
 }
@@ -379,7 +349,6 @@ position: relative;
     padding-top: 15px;
     padding-bottom: 5px;
     white-space:pre-line;
-    /* margin: 0 auto; */
 }
 
 #labelBottom{
@@ -436,8 +405,6 @@ text-underline-position: from-font;
 text-decoration-skip-ink: none;
 color: #003366;
 text-transform: uppercase;
-
-
 }
 
 #subContaierButText{
@@ -446,7 +413,6 @@ height:40px;
 gap: 10px;
 opacity: 0px;
 padding-top: 10px;
-
 }
 
 #subContaierButText label{
@@ -458,7 +424,6 @@ font-size: 20px;
 font-weight: 500;
 line-height: 30px;
 text-align: left;
-/* text-underline-position: from-font; */
 text-decoration-skip-ink: none;
 color: #343434;
 text-transform: uppercase;
@@ -473,7 +438,6 @@ gap: 10px;
 border-radius: 100px ;
 opacity: 0px;
 background-color: #003366;
-/* border-color: #003366; */
 border: none;
 
 }
@@ -492,7 +456,6 @@ color: #FBFBFB;
 height: 12.25px;
 gap: 0px;
 opacity: 0px;
-/* background-color: #FBFBFB; */
 }
 
 .subContaierPhoto{
@@ -515,19 +478,9 @@ border-radius:20px;
 #containerSubText{
     width: 660px;
 height: 333px;
-/* position: relative;;
-left: 680px; */
-/* margin-top: 37px; */
-/* padding: 0px 0px 0px 34px; */
 gap: 24px;
 border-radius: 14px;
 opacity: 0px;
-
-    /* width: 1340px;
-height: 575px;
-gap: 24px;
-border-radius: 20px;
-opacity: 0px; */
 background-color:#003366;
 
 }
@@ -537,9 +490,6 @@ background-color:#003366;
     margin-left: 34px;
     width: 699px;
     height: 108px;
-    /* position: relative;
-    top: 37px;
-    left: 34px; */
     gap: 40px;
     opacity: 0px;
 }
@@ -563,19 +513,18 @@ font-weight: 500;
 height: 145px;
 position: relative;
 top: 30px;
-/* left: 34px; */
 gap: 0px;
 opacity: 0px;
 font-size: 18px;
 font-weight: 400;
 line-height: 27px;
 text-align: left;
-/* text-underline-position: from-font; */
 text-decoration-skip-ink: none;
 color:#FBFBFB;
 word-break: keep-all;
 margin-top: -13px;
-margin-left: 34px;}
+margin-left: 34px;
+}
 
 #CardAboutUs1{
     width:317px;
@@ -627,7 +576,6 @@ font-size: 42px;
 font-weight: 500;
 line-height: 63px;
 text-align: center;
-/* text-underline-position: from-font; */
 text-decoration-skip-ink: none;
 color:#FBFBFB;
 }
@@ -711,7 +659,6 @@ border: 2px solid #003366
 height:884px;
 padding: 40px 0px 0px 0px;
 gap: 40px;
-/* border-radius: 14px 0px 0px 0px; */
 opacity: 0px;
 
 }
@@ -732,6 +679,7 @@ gap: 14px;
 opacity: 0px;
 display: flex;
 }
+
 #iconContainer{
     width:60px;
 height: 60px;
@@ -747,6 +695,7 @@ background-color:#003366;
     gap: 0px;
     opacity: 0px;    
 }
+
 #icon5{
     width: 28px;
 height: 28px;
@@ -754,6 +703,7 @@ gap: 0px;
 opacity: 0px;
 color:#FBFBFB;
 }
+
 .subContainerTextTop label{
     width: 1058px;
 height: 36px;
@@ -807,8 +757,8 @@ left: 2.23px;
 gap: 0px;
 opacity: 0px;
 padding: 10px 16px 10px 16px;
-
 }
+
 #icon6 {
     position: relative;
     width: 19.5px;
@@ -821,7 +771,6 @@ opacity: 0px;
 
 #icon7{
     position: relative;
-
     width: 24px;
     height: 22.34px;
     top: 0.81px;
@@ -833,7 +782,6 @@ opacity: 0px;
 
 #icon8{
     position: relative;
-
     width: 24.02px;
 height: 23.86px;
 top: 0.06px;
@@ -851,11 +799,7 @@ gap: 8px;
 border-radius: 45px;
 opacity: 0px;
     display: flex;
-    background-color:#EFF3F7;
-
-    /* padding: 10px 16px 10px 16px; */
-
-    
+    background-color:#EFF3F7; 
 }
 
 .MainlabelWrapper{
@@ -864,7 +808,6 @@ opacity: 0px;
 
 .MainlabelWrapper label{
     width: 85px !important;
-
 }
 
 #subContainerTheThree{
@@ -972,7 +915,6 @@ font-size: 18px;
 font-weight: 500;
 line-height: 27px;
 text-align: left;
-/* text-underline-position: from-font; */
 text-decoration-skip-ink: none;
 color:#343434;
 
@@ -988,8 +930,6 @@ line-height: 27px;
 text-align: left;
 text-decoration-skip-ink: none;
 color:#343434;
-/* margin-bottom: ; */
-/* padding-top: 20px; */
 }
 
 .container130 p{
@@ -1093,8 +1033,6 @@ text-transform: uppercase;
 .leadMagnet{
     width: 1920px;
 height: 350px;
-/* padding-left: 290px; */
-/* padding-right: 290px; */
 padding: 50px 290px 0px 290px;
 gap: 0px;
 opacity: 0px;
@@ -1118,9 +1056,6 @@ display: flex;
     margin-left: 34px;
     width: 699px;
     height: 108px;
-    /* position: relative;
-    top: 37px;
-    left: 34px; */
     gap: 40px;
     opacity: 0px;
 }
@@ -1257,7 +1192,6 @@ line-height: 30px;
 text-align: left;
 color:#003366;
 text-decoration-skip-ink: none;
-/* margin-top: 10px; */
 }
 
 .testimonials{
@@ -1296,8 +1230,7 @@ padding-bottom: 20px;
 height: 371px;
 gap: 50px;
 opacity: 0px;
-/* display: flex;
-align-items: center */
+
 }
 
 #subContainerTestimonialsText .container{
@@ -1314,7 +1247,6 @@ align-items: center */
 
 #card1{
     width: 658px;
-    /* height: 265px; */
     padding: 20px 80px 20px 20px;
     gap: 20px;
     border-radius: 12px;
@@ -1434,7 +1366,6 @@ height: 20px;
 padding: 5px;
 gap: 0px;
 opacity: 0px;
-/* background-color: white; */
 }
 
 #containerButtonIdication{
@@ -1513,14 +1444,10 @@ margin-bottom: 25px;
 #FAQ2{
     width:772px;
 height: 70px;
-/* display: flex; */
-
 padding: 30px 0px 7px 0px;
-/* margin-left: 40px; */
 gap: 30px;
 border-radius: 16px;
 border: 1px solid #003366;
-/* border-color:#003366; */
 opacity: 0px;
 margin-bottom: 25px;
 position: relative;
@@ -1530,7 +1457,6 @@ position: relative;
     position: absolute !important;
     top: 50% !important;
     transform: translate(0, -50%) !important;
-    /* !important; */
 
 }
  #labeltextContainerFAQ1{
@@ -1575,7 +1501,6 @@ padding-left: 40px;
 }
 
 .buttonContainerFAQ1{
-/* margin-right: 80px; */
 position: relative;
 left: 50px;
 }
@@ -1591,15 +1516,12 @@ gap: 10px;
 background-color:#003366;
 position: relative;
 right: 20px;
-/* margin-right: 40px; */
 }
 
 .buttonContainerFAQ1 img {
     width: 16px;
 height: 2px;
 position: relative;
-/* top: 11px; */
-/* left: 4px; */
 bottom:5px;
 right:1.5px;
 gap: 0px;
@@ -1623,7 +1545,6 @@ opacity: 0px;
     width: 544px;
 height:611px;
 padding: 60px 0px 0px 0px;
-/* margin-left: 60px; */
 gap: 40px;
 border-radius: 14px;
 opacity: 0px;
@@ -1666,7 +1587,6 @@ opacity: 0px;
 margin-left: 51px;
 padding-top: 40px;
 padding-bottom: 30px;
-/* margin-right: 46px; */
 }
 
 .FormElementsContainerFAQ #formContainerInputName{
@@ -1691,7 +1611,6 @@ textarea{
 height: 114px;
 gap: 6px;
 opacity: 0px;
-/* border-radius:6px; */
 }
 
 .FormElementsButtonFAQ{
@@ -1703,13 +1622,11 @@ opacity: 0px;
 .FormElementsButtonFAQ button{
     width: 235px;
 height:58px;
-/* padding: 14px 30px 0px 30px; */
 gap: 10px;
 border-radius: 14px;
 opacity: 0px;
 background-color:#FBFBFB;
 border:none;
-/* font-size: 20px; */
 }
 
 .FormElementsButtonFAQ p{
@@ -1720,7 +1637,6 @@ opacity: 0px;
 font-size: 19px;
 font-weight: 400;
 line-height: 30px;
-/* text-align: center; */
 color:#003366;
 text-decoration-skip-ink: none;
 margin:0 auto;
